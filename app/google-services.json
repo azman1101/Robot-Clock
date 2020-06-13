@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "104423527987",
+    "firebase_url": "https://robot-clock.firebaseio.com",
+    "project_id": "robot-clock",
+    "storage_bucket": "robot-clock.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104423527987:android:1a876a9823f63c27627546",
+        "android_client_info": {
+          "package_name": "com.example.robotclock"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "104423527987-qgh3grs06t3qq5rhu02p12fa8qr6njk7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.robotclock",
+            "certificate_hash": "689822d852bfb5503b841d63692e17b81176fa25"
+          }
+        },
+        {
+          "client_id": "104423527987-0j178n4fmopgb8m51srhfqn0i47fjtdh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfBCHWmkb7feAcKosQ6-f4-SR0SLO4nvs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "104423527987-0j178n4fmopgb8m51srhfqn0i47fjtdh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
